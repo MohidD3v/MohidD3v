@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I’m Mohid 👋
 
-<!--
-**MohidD3v/MohidD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **AI Engineer** passionate about building intelligent systems, solving complex problems, and creating secure applications. My skill set includes:
 
-Here are some ideas to get you started:
+- 💻 **Languages & Frameworks:**  
+  - C++, TypeScript, Python, Java  
+  - HTML, CSS, Tailwind CSS, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **Cybersecurity & Pentesting:**  
+  - Strong background in ethical hacking and penetration testing  
+  - Experience securing applications and infrastructure
+
+- 🚀 **What I Do:**  
+  - Develop AI-powered solutions  
+  - Build modern web applications  
+  - Focus on clean, maintainable, and secure code
+
+- 📚 **Currently Exploring:**  
+  - Advanced AI model optimization  
+  - Cloud security and DevSecOps  
+
+---
+
+📫 **Let’s Connect:**  
+Feel free to reach out for collaborations, projects, or a chat about AI & cybersecurity!
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)]([https://github.com/](https://github.com/MohidD3v))
+
+---
+
+*Thanks for stopping by!*
